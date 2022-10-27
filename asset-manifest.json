@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/belajar-git-remote/static/css/main.8ec4c188.chunk.css",
+    "main.js": "/belajar-git-remote/static/js/main.75eeb390.chunk.js",
+    "main.js.map": "/belajar-git-remote/static/js/main.75eeb390.chunk.js.map",
+    "runtime-main.js": "/belajar-git-remote/static/js/runtime-main.54b48bf2.js",
+    "runtime-main.js.map": "/belajar-git-remote/static/js/runtime-main.54b48bf2.js.map",
+    "static/js/2.c728ce1f.chunk.js": "/belajar-git-remote/static/js/2.c728ce1f.chunk.js",
+    "static/js/2.c728ce1f.chunk.js.map": "/belajar-git-remote/static/js/2.c728ce1f.chunk.js.map",
+    "index.html": "/belajar-git-remote/index.html",
+    "static/css/main.8ec4c188.chunk.css.map": "/belajar-git-remote/static/css/main.8ec4c188.chunk.css.map",
+    "static/js/2.c728ce1f.chunk.js.LICENSE.txt": "/belajar-git-remote/static/js/2.c728ce1f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54b48bf2.js",
+    "static/js/2.c728ce1f.chunk.js",
+    "static/css/main.8ec4c188.chunk.css",
+    "static/js/main.75eeb390.chunk.js"
+  ]
+}
