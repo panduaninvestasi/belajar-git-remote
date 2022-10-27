@@ -1,0 +1,36 @@
+a {
+  text-decoration: none;
+}
+
+.site-footer {
+  border-top: 1px solid rgb(229 229 229);
+}
+
+.site-footer a {
+  color: rgb(115 115 115);
+}
+
+.copyright {
+  padding: 1rem;
+  text-align: center;
+}
+
+.copyright a {
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+}
+
+.copyright .sep {
+  color: rgb(229 229 229);
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+
+.copyright .sep::after {
+  content: "|";
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+}
